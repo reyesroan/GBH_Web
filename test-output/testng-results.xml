@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="130183" started-at="2017-10-13T00:16:03Z" finished-at="2017-10-13T00:18:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="130183" started-at="2017-10-13T00:16:03Z" finished-at="2017-10-13T00:18:13Z">
+      <class name="com.basic.PruebaWeb">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="launchBrowser" is-config="true" duration-ms="10192" started-at="2017-10-12T20:16:03Z" finished-at="2017-10-12T20:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="12" started-at="2017-10-12T20:16:13Z" finished-at="2017-10-12T20:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Blog()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Blog" duration-ms="4360" started-at="2017-10-12T20:16:13Z" finished-at="2017-10-12T20:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Blog -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="1241" started-at="2017-10-12T20:16:17Z" finished-at="2017-10-12T20:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="11" started-at="2017-10-12T20:16:19Z" finished-at="2017-10-12T20:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Conocenos()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Conocenos" duration-ms="19527" started-at="2017-10-12T20:16:19Z" finished-at="2017-10-12T20:16:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Conocenos -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="1047" started-at="2017-10-12T20:16:38Z" finished-at="2017-10-12T20:16:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="7" started-at="2017-10-12T20:16:39Z" finished-at="2017-10-12T20:16:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Empleos()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Empleos" duration-ms="6198" started-at="2017-10-12T20:16:39Z" finished-at="2017-10-12T20:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Empleos -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="1560" started-at="2017-10-12T20:16:45Z" finished-at="2017-10-12T20:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="9" started-at="2017-10-12T20:16:47Z" finished-at="2017-10-12T20:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Portafolio()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Portafolio" duration-ms="13879" started-at="2017-10-12T20:16:47Z" finished-at="2017-10-12T20:17:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Portafolio -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="2893" started-at="2017-10-12T20:17:01Z" finished-at="2017-10-12T20:17:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="8" started-at="2017-10-12T20:17:04Z" finished-at="2017-10-12T20:17:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Servicio_AIEU()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Servicio_AIEU" duration-ms="6603" started-at="2017-10-12T20:17:04Z" finished-at="2017-10-12T20:17:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Servicio_AIEU -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="2764" started-at="2017-10-12T20:17:10Z" finished-at="2017-10-12T20:17:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="11" started-at="2017-10-12T20:17:13Z" finished-at="2017-10-12T20:17:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Servicio_CCE()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Servicio_CCE" duration-ms="3541" started-at="2017-10-12T20:17:13Z" finished-at="2017-10-12T20:17:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Servicio_CCE -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="1505" started-at="2017-10-12T20:17:17Z" finished-at="2017-10-12T20:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="11" started-at="2017-10-12T20:17:18Z" finished-at="2017-10-12T20:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Servicio_CR()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Servicio_CR" duration-ms="3300" started-at="2017-10-12T20:17:18Z" finished-at="2017-10-12T20:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Servicio_CR -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="1233" started-at="2017-10-12T20:17:22Z" finished-at="2017-10-12T20:17:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="12" started-at="2017-10-12T20:17:23Z" finished-at="2017-10-12T20:17:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Servicio_CW()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Servicio_CW" duration-ms="2919" started-at="2017-10-12T20:17:23Z" finished-at="2017-10-12T20:17:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Servicio_CW -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="1412" started-at="2017-10-12T20:17:26Z" finished-at="2017-10-12T20:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="7" started-at="2017-10-12T20:17:27Z" finished-at="2017-10-12T20:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Servicio_DS()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Servicio_DS" duration-ms="9690" started-at="2017-10-12T20:17:27Z" finished-at="2017-10-12T20:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Servicio_DS -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="735" started-at="2017-10-12T20:17:37Z" finished-at="2017-10-12T20:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="8" started-at="2017-10-12T20:17:38Z" finished-at="2017-10-12T20:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Servicio_DWRD()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Servicio_DWRD" duration-ms="5744" started-at="2017-10-12T20:17:38Z" finished-at="2017-10-12T20:17:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Servicio_DWRD -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="1208" started-at="2017-10-12T20:17:43Z" finished-at="2017-10-12T20:17:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="7" started-at="2017-10-12T20:17:45Z" finished-at="2017-10-12T20:17:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Servicio_EI()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Servicio_EI" duration-ms="1606" started-at="2017-10-12T20:17:45Z" finished-at="2017-10-12T20:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Servicio_EI -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="2043" started-at="2017-10-12T20:17:46Z" finished-at="2017-10-12T20:17:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="12" started-at="2017-10-12T20:17:48Z" finished-at="2017-10-12T20:17:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Servicio_ICERD()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Servicio_ICERD" duration-ms="2014" started-at="2017-10-12T20:17:48Z" finished-at="2017-10-12T20:17:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Servicio_ICERD -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="791" started-at="2017-10-12T20:17:50Z" finished-at="2017-10-12T20:17:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="12" started-at="2017-10-12T20:17:51Z" finished-at="2017-10-12T20:17:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Servicio_ICRW()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Servicio_ICRW" duration-ms="2244" started-at="2017-10-12T20:17:51Z" finished-at="2017-10-12T20:17:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Servicio_ICRW -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="1319" started-at="2017-10-12T20:17:53Z" finished-at="2017-10-12T20:17:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="9" started-at="2017-10-12T20:17:55Z" finished-at="2017-10-12T20:17:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Servicio_MPCC()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Servicio_MPCC" duration-ms="4024" started-at="2017-10-12T20:17:55Z" finished-at="2017-10-12T20:17:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Servicio_MPCC -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="703" started-at="2017-10-12T20:17:59Z" finished-at="2017-10-12T20:17:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="10" started-at="2017-10-12T20:17:59Z" finished-at="2017-10-12T20:17:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Servicio_MRSE()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Servicio_MRSE" duration-ms="9505" started-at="2017-10-12T20:17:59Z" finished-at="2017-10-12T20:18:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Servicio_MRSE -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="735" started-at="2017-10-12T20:18:09Z" finished-at="2017-10-12T20:18:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="verifyHomePageTitle" is-config="true" duration-ms="7" started-at="2017-10-12T20:18:10Z" finished-at="2017-10-12T20:18:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="M_Servicio_SEO()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="M_Servicio_SEO" duration-ms="1653" started-at="2017-10-12T20:18:10Z" finished-at="2017-10-12T20:18:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M_Servicio_SEO -->
+        <test-method status="PASS" signature="goBackToHomePage()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="goBackToHomePage" is-config="true" duration-ms="1053" started-at="2017-10-12T20:18:11Z" finished-at="2017-10-12T20:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomePage -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:com.basic.PruebaWeb@d2cc05a]" name="terminateBrowser" is-config="true" duration-ms="742" started-at="2017-10-12T20:18:12Z" finished-at="2017-10-12T20:18:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- com.basic.PruebaWeb -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
